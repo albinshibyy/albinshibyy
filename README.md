@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @albinshibyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <br>
+  
+  <img width="150" src="assets/main.png">
+ 
+  <br>
+  <samp>
+    <i>Yo!</i> I'm <b>Albin_S</b>.
+    <br> 
+    Check out my repo's, tks btw 
+    <br>
+    <br>
+  </samp>
 
-<!---
-albinshibyy/albinshibyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <br>
+  <br>
+  <img width="max" src="assets/flow.svg">
+</p>
